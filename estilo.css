@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Mandali', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    text-align: center;
+    z-index: 11;
+    position: relative;
+    color: rgb(142, 126, 107);
+    padding: 15px;
+}
+
+.izq {
+    position: absolute;
+    top: 0;
+    width: 35%;
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.704);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    color: rgba(240, 255, 255, 0.912);
+}
+
+.portada::before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100vh;
+    translate: 65% 0;
+    height: 100vh;
+    rotate: 45deg;
+    background-color: rgba(0, 255, 255, 0.24);
+    border-radius: 15px;
+    z-index: -1;
+}
+
+.redes {
+    position: absolute;
+    background-color: antiquewhite;
+    bottom: 20px;
+    display: inline-flex;
+    border-radius: 0px 36px 36px 0px;
+    z-index: 1;
+}
+
+.redes>a {
+    margin: 15px 20px;
+    cursor: pointer;
+}
+
+.redes>a:hover {
+    animation: mover 2s linear infinite;
+}
+
+@keyframes mover {
+    50% {
+        translate: 0 -15px;
+    }
+
+    0%,
+    100% {
+        translate: 0 0;
+    }
+}
+
+#modelo {
+    position: relative;
+    display: grid;
+    grid-template-columns: 40% auto;
+    place-items: center;
+    width: 100%;
+    gap: 20px;
+    background-image: linear-gradient(to left, rgba(0, 255, 255, 0.79), rgba(0, 0, 255, 0.51));
+}
+
+#modelo::before{
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    background-color: transparent;
+}
+#modelo::after{
+    content: "";
+    position: absolute;
+    z-index: -12;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(250, 8, 32);
+}
+.parrafo{
+    background-color: rgba(240, 248, 255, 0.589);
+    backdrop-filter: blur(5px);
+    padding: 15px;
+    border-radius: 15px;
+    margin-left: 15px;
+    font-size: larger;
+    animation: mover 2s ease-in-out;
+    box-shadow: 0 0 10px gainsboro;
+}
+#modelo img{
+    width: 400px;
+    height: 600px;
+}
+#map{
+    position: relative;
+    bottom: 5px;
+    border-radius: 16px;
+}
+.mapa{
+    position: relative;
+    background-image: linear-gradient( to left, rgba(220, 100, 100, 0.692), rgba(240, 87, 4, 0.608));
+}
+.mapa::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to left, rgba(255, 0, 0, 0.233), rgba(0, 0, 255, 0.604));
+    backdrop-filter: blur(5px);
+}
+.mapa > header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.mapa > h2{
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.portada {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+    overflow: hidden;
+    background-image: url(moto2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    /* background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%); */
+    /* backdrop-filter: blur(5px); */
+}
+
+
+
+.portada::after {
+    content: "";
+    top: 0;
+    position: absolute;
+    width: 50%;
+    height: 100vh;
+    /* background-color: blueviolet; */
+    rotate: 45deg;
+}
+footer{
+    background-color: mediumpurple;
+    padding: 15px;
+    color: aliceblue;
+}

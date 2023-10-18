@@ -1,0 +1,913 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OID" : "OID",
+    "Name" : "Name",
+    "FolderPath" : "FolderPath",
+    "SymbolID" : "SymbolID",
+    "AltMode" : "AltMode",
+    "Base" : "Base",
+    "Snippet" : "Snippet",
+    "PopupInfo" : "PopupInfo",
+    "HasLabel" : "HasLabel",
+    "LabelID" : "LabelID",
+    "distrito" : "distrito",
+    "color" : "color"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326,
+    "vcsWkid" : 5773,
+    "latestVcsWkid" : 5773
+  },
+  "fields" : [
+    {
+      "name" : "OID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OID"
+    },
+    {
+      "name" : "Name",
+      "type" : "esriFieldTypeString",
+      "alias" : "Name",
+      "length" : 320
+    },
+    {
+      "name" : "FolderPath",
+      "type" : "esriFieldTypeString",
+      "alias" : "FolderPath",
+      "length" : 320
+    },
+    {
+      "name" : "SymbolID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "SymbolID"
+    },
+    {
+      "name" : "AltMode",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "AltMode"
+    },
+    {
+      "name" : "Base",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Base"
+    },
+    {
+      "name" : "Snippet",
+      "type" : "esriFieldTypeString",
+      "alias" : "Snippet",
+      "length" : 268435455
+    },
+    {
+      "name" : "PopupInfo",
+      "type" : "esriFieldTypeString",
+      "alias" : "PopupInfo",
+      "length" : 268435455
+    },
+    {
+      "name" : "HasLabel",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "HasLabel"
+    },
+    {
+      "name" : "LabelID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "LabelID"
+    },
+    {
+      "name" : "distrito",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "distrito"
+    },
+    {
+      "name" : "color",
+      "type" : "esriFieldTypeString",
+      "alias" : "color",
+      "length" : 50
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OID" : 1,
+        "Name" : "Las estrellas",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 0,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Las estrellas    \u003cbr\u003e       \u003cbr\u003e   FID   0    \u003cbr\u003e   Distrito   Distrito 9    \u003cbr\u003e   Name   Las estrellas    \u003cbr\u003e   Color   Chaleco verde con amarillo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 9,
+        "color" : "verde con amarillo"
+      },
+      "geometry" : {
+        "x" : -63.192875999999956,
+        "y" : -17.873004999999978
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 2,
+        "Name" : "El camino",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 1,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "El camino    \u003cbr\u003e       \u003cbr\u003e   FID   1    \u003cbr\u003e   Distrito   Distrito 9    \u003cbr\u003e   Name   El camino    \u003cbr\u003e   Color   Chaleco negro",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 9,
+        "color" : "negro"
+      },
+      "geometry" : {
+        "x" : -63.186276999999961,
+        "y" : -17.857552999999939
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 3,
+        "Name" : "Las estrellas",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 0,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Las estrellas    \u003cbr\u003e       \u003cbr\u003e   FID   2    \u003cbr\u003e   Distrito   Distrito 9    \u003cbr\u003e   Name   Las estrellas    \u003cbr\u003e   Color   Chalecon verde con amarillo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 9,
+        "color" : "verde con amarillo"
+      },
+      "geometry" : {
+        "x" : -63.199395999999979,
+        "y" : -17.855447999999967
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 4,
+        "Name" : "El camino",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 1,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "El camino    \u003cbr\u003e       \u003cbr\u003e   FID   3    \u003cbr\u003e   Distrito   Distrito 9    \u003cbr\u003e   Name   El camino    \u003cbr\u003e   Color   Chaleco negro",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 9,
+        "color" : "negro"
+      },
+      "geometry" : {
+        "x" : -63.189011999999934,
+        "y" : -17.854916999999944
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 5,
+        "Name" : "20 de febrero",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 2,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "20 de febrero    \u003cbr\u003e       \u003cbr\u003e   FID   4    \u003cbr\u003e   Distrito   Distrito 9    \u003cbr\u003e   Name   20 de febrero    \u003cbr\u003e   Color   Chaleco rojo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 9,
+        "color" : "rojo"
+      },
+      "geometry" : {
+        "x" : -63.18156399999998,
+        "y" : -17.85229099999998
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 6,
+        "Name" : "Santa cruz sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 3,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Santa cruz sur    \u003cbr\u003e       \u003cbr\u003e   FID   5    \u003cbr\u003e   Distrito   Distrito 9    \u003cbr\u003e   Name   Santa cruz sur    \u003cbr\u003e   Color   Chaleco verde con blanco",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 9,
+        "color" : "verde con blanco"
+      },
+      "geometry" : {
+        "x" : -63.181258999999955,
+        "y" : -17.851594999999975
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 7,
+        "Name" : "Las estrellas",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 0,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Las estrellas    \u003cbr\u003e       \u003cbr\u003e   FID   6    \u003cbr\u003e   Distrito   Distrito 9    \u003cbr\u003e   Name   Las estrellas    \u003cbr\u003e   Color   Chaleco verde con amarillo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 9,
+        "color" : "verde con amarillo"
+      },
+      "geometry" : {
+        "x" : -63.18319699999995,
+        "y" : -17.850356999999974
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 8,
+        "Name" : "20 de febrero",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 2,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "20 de febrero    \u003cbr\u003e       \u003cbr\u003e   FID   7    \u003cbr\u003e   Distrito   Distrito 9    \u003cbr\u003e   Name   20 de febrero    \u003cbr\u003e   Color   Chaleco rojo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 9,
+        "color" : "rojo"
+      },
+      "geometry" : {
+        "x" : -63.172609999999963,
+        "y" : -17.842677999999978
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 9,
+        "Name" : "Cortez",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 4,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Cortez    \u003cbr\u003e       \u003cbr\u003e   FID   8    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Cortez    \u003cbr\u003e   Color   Chaleco plomo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "plomo"
+      },
+      "geometry" : {
+        "x" : -63.172872999999981,
+        "y" : -17.893388999999956
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 10,
+        "Name" : "Cortez",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 4,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Cortez    \u003cbr\u003e       \u003cbr\u003e   FID   9    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Cortez    \u003cbr\u003e   Color   Chaleco plomo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "plomo"
+      },
+      "geometry" : {
+        "x" : -63.178583999999944,
+        "y" : -17.889523999999938
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 11,
+        "Name" : "Cortez",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 4,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Cortez    \u003cbr\u003e       \u003cbr\u003e   FID   10    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Cortez    \u003cbr\u003e   Color   Chaleco plomo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "plomo"
+      },
+      "geometry" : {
+        "x" : -63.179474999999968,
+        "y" : -17.88837099999995
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 12,
+        "Name" : "12 noviembre",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 5,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "12 noviembre    \u003cbr\u003e       \u003cbr\u003e   FID   11    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   12 noviembre    \u003cbr\u003e   Color   Azul",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "azul"
+      },
+      "geometry" : {
+        "x" : -63.17721199999994,
+        "y" : -17.884090999999955
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 13,
+        "Name" : "Palmar del sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 6,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmar del sur    \u003cbr\u003e       \u003cbr\u003e   FID   12    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmar del sur    \u003cbr\u003e   Color   Chaleco verde",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "verde"
+      },
+      "geometry" : {
+        "x" : -63.154511999999954,
+        "y" : -17.883041999999932
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 14,
+        "Name" : "20 de febrero",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 2,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "20 de febrero    \u003cbr\u003e       \u003cbr\u003e   FID   13    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   20 de febrero    \u003cbr\u003e   Color   Chaleco rojo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "rojo"
+      },
+      "geometry" : {
+        "x" : -63.154601999999954,
+        "y" : -17.882949999999937
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 15,
+        "Name" : "Palmira sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 7,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmira sur    \u003cbr\u003e       \u003cbr\u003e   FID   14    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmira sur    \u003cbr\u003e   Color   Chaleco naranja",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "naranja"
+      },
+      "geometry" : {
+        "x" : -63.180411999999933,
+        "y" : -17.882132999999953
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 16,
+        "Name" : "12 noviembre",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 5,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "12 noviembre    \u003cbr\u003e       \u003cbr\u003e   FID   15    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   12 noviembre    \u003cbr\u003e   Color   Chaleco Azul",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "azul"
+      },
+      "geometry" : {
+        "x" : -63.167389999999955,
+        "y" : -17.881880999999964
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 17,
+        "Name" : "Palmira sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 7,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmira sur    \u003cbr\u003e       \u003cbr\u003e   FID   16    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmira sur    \u003cbr\u003e   Color   Chaleco naranja",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "naranja"
+      },
+      "geometry" : {
+        "x" : -63.192457999999988,
+        "y" : -17.880302999999969
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 18,
+        "Name" : "Palmira sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 7,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmira sur    \u003cbr\u003e       \u003cbr\u003e   FID   17    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmira sur    \u003cbr\u003e   Color   Chaleco naranja",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "naranja"
+      },
+      "geometry" : {
+        "x" : -63.18327899999997,
+        "y" : -17.879606999999965
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 19,
+        "Name" : "Union del sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 8,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Union del sur    \u003cbr\u003e       \u003cbr\u003e   FID   18    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Union del sur    \u003cbr\u003e   Color   Chaleco guindo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "guindo"
+      },
+      "geometry" : {
+        "x" : -63.163017999999965,
+        "y" : -17.879476999999952
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 20,
+        "Name" : "Palmira sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 7,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmira sur    \u003cbr\u003e       \u003cbr\u003e   FID   19    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmira sur    \u003cbr\u003e   Color   Chaleco naranja",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "naranja"
+      },
+      "geometry" : {
+        "x" : -63.192282999999975,
+        "y" : -17.879072999999948
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 21,
+        "Name" : "12 noviembre",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 5,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "12 noviembre    \u003cbr\u003e       \u003cbr\u003e   FID   20    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   12 noviembre    \u003cbr\u003e   Color   Chaleco Azul",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "azul"
+      },
+      "geometry" : {
+        "x" : -63.171443999999951,
+        "y" : -17.877017999999964
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 22,
+        "Name" : "Palmira sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 7,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmira sur    \u003cbr\u003e       \u003cbr\u003e   FID   21    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmira sur    \u003cbr\u003e   Color   Chaleco naranja",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "naranja"
+      },
+      "geometry" : {
+        "x" : -63.187156999999956,
+        "y" : -17.876938999999936
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 23,
+        "Name" : "Palmira sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 7,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmira sur    \u003cbr\u003e       \u003cbr\u003e   FID   22    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmira sur    \u003cbr\u003e   Color   Chaleco naranja",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "naranja"
+      },
+      "geometry" : {
+        "x" : -63.18490799999995,
+        "y" : -17.874899999999968
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 24,
+        "Name" : "Union del sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 8,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Union del sur    \u003cbr\u003e       \u003cbr\u003e   FID   23    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Union del sur    \u003cbr\u003e   Color   Chaleco guindo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "guindo"
+      },
+      "geometry" : {
+        "x" : -63.169572999999957,
+        "y" : -17.874523999999951
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 25,
+        "Name" : "Palmira sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 7,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmira sur    \u003cbr\u003e       \u003cbr\u003e   FID   24    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmira sur    \u003cbr\u003e   Color   Chaleco naranja",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "naranja"
+      },
+      "geometry" : {
+        "x" : -63.186452999999972,
+        "y" : -17.874442999999928
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 26,
+        "Name" : "Palmar del sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 6,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmar del sur    \u003cbr\u003e       \u003cbr\u003e   FID   25    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmar del sur    \u003cbr\u003e   Color   Chaleco verde",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "verde"
+      },
+      "geometry" : {
+        "x" : -63.191694999999982,
+        "y" : -17.874072999999953
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 27,
+        "Name" : "Union del sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 8,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Union del sur    \u003cbr\u003e       \u003cbr\u003e   FID   26    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Union del sur    \u003cbr\u003e   Color   Chaleco guindo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "guindo"
+      },
+      "geometry" : {
+        "x" : -63.167538999999977,
+        "y" : -17.872698999999955
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 28,
+        "Name" : "Palmar del sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 6,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmar del sur    \u003cbr\u003e       \u003cbr\u003e   FID   27    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmar del sur    \u003cbr\u003e   Color   Chaleco verde",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "verde"
+      },
+      "geometry" : {
+        "x" : -63.164494999999988,
+        "y" : -17.870539999999949
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 29,
+        "Name" : "Magisterio",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 9,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Magisterio    \u003cbr\u003e       \u003cbr\u003e   FID   28    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Magisterio    \u003cbr\u003e   Color   Chaleco verde con rojo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "rojo"
+      },
+      "geometry" : {
+        "x" : -63.178223999999943,
+        "y" : -17.870523999999932
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 30,
+        "Name" : "azul",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 10,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Chaleco azul \u003cbr\u003e \u003cbr\u003e FID 29 \u003cbr\u003e Distrito Distrito 12 \u003cbr\u003e Name Chaleco azul \u003cbr\u003e Color Azul",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "azul"
+      },
+      "geometry" : {
+        "x" : -63.164384999999982,
+        "y" : -17.870134999999948
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 31,
+        "Name" : "Union del sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 8,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Union del sur    \u003cbr\u003e       \u003cbr\u003e   FID   30    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Union del sur    \u003cbr\u003e   Color   Chaleco guindo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "guindo"
+      },
+      "geometry" : {
+        "x" : -63.175526999999988,
+        "y" : -17.866063999999938
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 32,
+        "Name" : "Azul",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 10,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Azul    \u003cbr\u003e       \u003cbr\u003e   FID   31    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Azul    \u003cbr\u003e   Color   Azul",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "azul"
+      },
+      "geometry" : {
+        "x" : -63.159694999999942,
+        "y" : -17.866060999999945
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 33,
+        "Name" : "Fortaleza",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 11,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Fortaleza    \u003cbr\u003e       \u003cbr\u003e   FID   32    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Fortaleza    \u003cbr\u003e   Color   Fortaleza",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "verde lechuga con amarillo"
+      },
+      "geometry" : {
+        "x" : -63.156149999999968,
+        "y" : -17.864878999999974
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 34,
+        "Name" : "Fortaleza",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 11,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Fortaleza    \u003cbr\u003e       \u003cbr\u003e   FID   33    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Fortaleza    \u003cbr\u003e   Color   FortalezA",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "verde lechuga con amarillo"
+      },
+      "geometry" : {
+        "x" : -63.160796999999945,
+        "y" : -17.862713999999983
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 35,
+        "Name" : "Magisterio",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 9,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Magisterio    \u003cbr\u003e       \u003cbr\u003e   FID   34    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Magisterio    \u003cbr\u003e   Color   Verde con rojo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "rojo"
+      },
+      "geometry" : {
+        "x" : -63.181528999999955,
+        "y" : -17.862386999999956
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 36,
+        "Name" : "Palmar del sur",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 6,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Palmar del sur    \u003cbr\u003e       \u003cbr\u003e   FID   35    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Palmar del sur    \u003cbr\u003e   Color   Chaleco verde",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "verde"
+      },
+      "geometry" : {
+        "x" : -63.172148999999933,
+        "y" : -17.861721999999929
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 37,
+        "Name" : "Fortaleza",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 11,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Fortaleza    \u003cbr\u003e       \u003cbr\u003e   FID   36    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Fortaleza    \u003cbr\u003e   Color   Fortaleza",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "verde lechuga con amarillo"
+      },
+      "geometry" : {
+        "x" : -63.155346999999949,
+        "y" : -17.860605999999962
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 38,
+        "Name" : "Azul",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 10,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Azul    \u003cbr\u003e       \u003cbr\u003e   FID   37    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Azul    \u003cbr\u003e   Color   Azul",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "azul"
+      },
+      "geometry" : {
+        "x" : -63.163605999999959,
+        "y" : -17.854691999999943
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 39,
+        "Name" : "20 de febrero",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 2,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "20 de febrero    \u003cbr\u003e       \u003cbr\u003e   FID   38    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   20 de febrero    \u003cbr\u003e   Color   Chaleco rojo",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "rojo"
+      },
+      "geometry" : {
+        "x" : -63.166149999999959,
+        "y" : -17.850723999999957
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 40,
+        "Name" : "Fuerte",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 12,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Fuerte    \u003cbr\u003e       \u003cbr\u003e   FID   39    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Fuerte    \u003cbr\u003e   Color   Fuerte",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "naranja oscuro"
+      },
+      "geometry" : {
+        "x" : -63.156119999999987,
+        "y" : -17.849897999999939
+      }
+    },
+    {
+      "attributes" : {
+        "OID" : 41,
+        "Name" : "Fuerte",
+        "FolderPath" : "MergueParadas",
+        "SymbolID" : 12,
+        "AltMode" : -1,
+        "Base" : 0,
+        "Snippet" : "",
+        "PopupInfo" : "Fuerte    \u003cbr\u003e       \u003cbr\u003e   FID   40    \u003cbr\u003e   Distrito   Distrito 12    \u003cbr\u003e   Name   Fuerte    \u003cbr\u003e   Color   Fuerte",
+        "HasLabel" : -1,
+        "LabelID" : 0,
+        "distrito" : 12,
+        "color" : "naranja oscuro"
+      },
+      "geometry" : {
+        "x" : -63.147797999999966,
+        "y" : -17.84770999999995
+      }
+    }
+  ]
+}
